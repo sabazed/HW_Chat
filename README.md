@@ -1,3 +1,4 @@
+# Chat
 <p>In this assignment, you are going to realiza a simple chat program by means of sockets.
 Please recall the correspondings slides from the lecture.
 subsequently, implement the public static method <code>main</code> of class <code>Chat</code>.</p>
